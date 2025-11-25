@@ -1,4 +1,4 @@
-# **AI-Enhanced Supply Chain Knowledge Graph and Risk Modeling**
+# **Supply Chain Graph Network Analysis**
 
 ## **🎯 Project Goal**
 
